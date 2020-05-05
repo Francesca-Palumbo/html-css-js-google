@@ -1,0 +1,30 @@
+header{
+    display: flex;
+    width: 100%;
+    height: 60px;
+}
+
+.link-sinistra{
+    width: 50%;
+    background-color: lightcoral;
+
+}
+
+.link-destra{
+    width: 50%;
+    background-color: grey;
+}
+
+.voci-link-sinistra{
+    height: 60px;
+    align-items: center;
+}
+
+.voci-link-sinistra a {
+    align-items: center;
+    justify-content: center;
+}
+
+.voci-link-destra{
+
+}
